@@ -3,7 +3,7 @@
 <html lang="pt-BR">
     <head>
         <meta charset="UTF-8">
-        ,<title>@yield('title', 'meu site')</title>
+        <title>@yield('title', 'meu site')</title>
     
     </head>
     <body>
