@@ -5,5 +5,5 @@
 
  class Role extends Model
  {
-    protected $table
+    protected $table;
  }
